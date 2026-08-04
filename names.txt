@@ -8,7 +8,7 @@
 |  6 | 4CI24EC409 | M S SANJITH       | M S SANJITTH              |
 |  7 | 4CI23EC011 | Greeshma          | Greeshmaa                 |
 |  8 | 4CI23EC021 | Krishna R C       | Krishnna R C              |
-|  9 | 4CI23EC016 | hima m            | himaa m                   |
+|  9 | 4CI23EC016 | hima m            | hima m                   *
 | 10 | 4CI23EC053 | Vinay N V         | Vinaay N V                |
 | 11 | 4CI23EC028 | Nithin H B        | Nitthin H B               |
 | 12 | 4CI23EC026 | Nambratha N       | Nambrathaa N              |
