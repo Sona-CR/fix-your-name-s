@@ -13,7 +13,7 @@
 | 11 | 4CI23EC028 | Nithin H B        | Nitthin H B               |
 | 12 | 4CI23EC026 | Nambratha N       | Nambrathaa N              |
 | 13 | 4CI23EC036 | Rakshak G Raju    | Rakshakk G Raju           |
-| 14 | 4CI23EC048 | Sona CR           | Sonaa CR                  |
+| 14 | 4CI23EC048 | Sona CR           | Sona CR                  |
 | 15 | 4CI23EC024 | Likith Kumar K    | Likitth Kumar K           |
 | 16 | 4CI23EC050 | Sujan N           | Sujann N                  |
 | 17 | 4CI23EC013 | HASMITHA K M      | HASMITHAA K M             |
