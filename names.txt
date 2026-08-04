@@ -1,0 +1,36 @@
+|  # | USN        | Correct Name      | fix here |
+| -: | ---------- | ----------------- | -------------------------|
+|  1 | 4CI23EC035 | Raksha B          | Rakshaa B                 |
+|  2 | 4CI23EC018 | JASHIKA A K       | JASHIKAA A K              |
+|  3 | 4CI23EC020 | Kavana m.k        | Kavanaa m.k               |
+|  4 | 4CI23EC041 | Ruchitha G        | Ruchithaa G               |
+|  5 | 4CI23EC045 | Sharath k n       | Sharrath k n              |
+|  6 | 4CI24EC409 | M S SANJITH       | M S SANJITTH              |
+|  7 | 4CI23EC011 | Greeshma          | Greeshmaa                 |
+|  8 | 4CI23EC021 | Krishna R C       | Krishnna R C              |
+|  9 | 4CI23EC016 | hima m            | himaa m                   |
+| 10 | 4CI23EC053 | Vinay N V         | Vinaay N V                |
+| 11 | 4CI23EC028 | Nithin H B        | Nitthin H B               |
+| 12 | 4CI23EC026 | Nambratha N       | Nambrathaa N              |
+| 13 | 4CI23EC036 | Rakshak G Raju    | Rakshakk G Raju           |
+| 14 | 4CI23EC048 | Sona CR           | Sonaa CR                  |
+| 15 | 4CI23EC024 | Likith Kumar K    | Likitth Kumar K           |
+| 16 | 4CI23EC050 | Sujan N           | Sujann N                  |
+| 17 | 4CI23EC013 | HASMITHA K M      | HASMITHAA K M             |
+| 18 | 4CI23EC042 | Ruthika H M       | Ruthikka H M              |
+| 19 | 4CI24EC408 | Sanjay R          | Sanjayy R                 |
+| 20 | 4CI24EC405 | HarshaVardhan C J | HarshaVardhann C J        |
+| 21 | 4CI23EC047 | Sindhu            | Sindhuu                   |
+| 22 | 4CI23EC038 | Rakshitha S R     | Rakshithaa S R            |
+| 23 | 4CI23EC035 | Raksha B          | Rakshaa B                 |
+| 24 | 4CI23EC049 | Sonia G           | Sonnia G                  |
+| 25 | 4CI23EC003 | Anusha D          | Anushaa D                 |
+| 26 | 4CI23EC025 | Manasa G S        | Manasaa G S               |
+| 27 | 4CI23EC001 | Aishwarya YG      | Aishwaryaa YG             |
+| 28 | 4CI23EC002 | Anusha c k        | Anushha c k               |
+| 29 | 4CI23EC005 | Ashwini R         | Ashw ini R                |
+| 30 | 4CI23EC031 | Prarthan          | Prarthann                 |
+| 31 | 4CI23EC009 | Dhyan BK          | Dhyann BK                 |
+| 32 | 4CI23EC037 | Rakshitha         | Rakshithaa                |
+| 33 | 4CI23EC039 | Rohit cl          | Rohitt cl                 |
+| 34 | 4CI23EC023 | Kumuda B S        | Kumudaa B S               |
